@@ -2,7 +2,6 @@
 To deploy and secure a REST API using AWS API Gateway, Lambda, and Web Application Firewall (WAF) with best security practices.
 
 ### Required Tools
-- Completed Lab 1 (same AWS account and CLI setup)
 - Python 3.8+ (for Lambda function)
 - AWS CLI configured
 - Terraform installed
